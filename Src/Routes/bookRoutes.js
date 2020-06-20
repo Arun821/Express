@@ -6,13 +6,13 @@ function book(nav){
 [{
     title:'Lord of The Rings',
     author: 'J.R.R.Tolkien',
-    gender:'Epic High-Fantasy Noval',
+    gender:'Epic High-Fantasy Novel',
     img: "Ringstrilogyposter.jpg"
 },
 {
     title:'Paathumayude Aadu',
     author: 'Vaikom Muhammad Basheer',
-    gender:'Noval',
+    gender:'Novel',
     img: "417YWGnX6eL._SX354_BO1,204,203,200_.jpg"
 },
 {
